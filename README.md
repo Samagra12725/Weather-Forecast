@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 🌦️ Weather Forecast Website
 A simple and dynamic weather forecast application using the OpenWeatherMap API.
 
@@ -50,7 +50,7 @@ Sign up at OpenWeatherMap to get your API key.
 ✅ Integrate radar maps for detailed weather visualization.
 💡 Contributions and suggestions are welcome! Feel free to open an issue or submit a pull request.
 ⭐ If you find this project useful, give it a star!
-=======
+
 
 
 
