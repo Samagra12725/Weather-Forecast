@@ -41,8 +41,8 @@ git clone https://github.com/Samagra12725/weather-forecast.git
 3️⃣ Enter a city name in the search box to view the weather.
 
 📌 API Configuration
-To use the OpenWeatherMap API, ensure you have an API key. Replace the placeholder in script.js:
-const apiKey = "bd7d5028e6a0067b3d6b3bb514f5513c";
+- To use the OpenWeatherMap API, ensure you have an API key. Replace the placeholder in script.js:
+- const apiKey = "bd7d5028e6a0067b3d6b3bb514f5513c";
 
 
 Sign up at OpenWeatherMap to get your API key.
