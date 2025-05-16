@@ -43,6 +43,7 @@ git clone https://github.com/Samagra12725/weather-forecast.git
 📌 API Configuration
 - To use the OpenWeatherMap API, ensure you have an API key. Replace the placeholder in script.js:
 - const apiKey = "bd7d5028e6a0067b3d6b3bb514f5513c";
+- apiUrl = "https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
 
 
 Sign up at OpenWeatherMap to get your API key.
