@@ -6,12 +6,12 @@ This project provides real-time weather updates for any city entered by the user
 
 
 🚀 Features
-✔️ Live Weather Updates – Fetch real-time weather conditions using OpenWeatherMap API.
-✔️ Search Functionality – Users can enter any city to view weather details.
-✔️ Dynamic Weather Icons – Displays images corresponding to the weather conditions.
-✔️ Temperature, Humidity & Wind Speed – Detailed weather statistics.
-✔️ Fully Responsive – Optimized for all screen sizes.
-✔️ Dark Mode Theme – A clean dark UI for better readability.
+✔ Live Weather Updates – Fetch real-time weather conditions using OpenWeatherMap API.
+✔ Search Functionality – Users can enter any city to view weather details.
+✔ Dynamic Weather Icons – Displays images corresponding to the weather conditions.
+✔ Temperature, Humidity & Wind Speed – Detailed weather statistics.
+✔ Fully Responsive – Optimized for all screen sizes.
+✔ Dark Mode Theme – A clean dark UI for better readability.
 
 🔧 Technologies Used
 - HTML5 – Structuring the web page
