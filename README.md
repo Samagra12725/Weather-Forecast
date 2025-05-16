@@ -21,21 +21,24 @@ This project provides real-time weather updates for any city entered by the user
 - OpenWeatherMap API – Fetching live weather data
 
 📂 Project Structure
+
 📂 Weather-Forecast/
- ├── 📜 index.html        # Main HTML structure
- ├── 📜 style.css         # Styling for UI elements
- ├── 📜 script.js         # JavaScript for fetching API data
- ├── 📂 images/           # Weather icons (rain, snow, clouds, etc.)
- ├── 📜 README.md         # Project documentation
+ - 📜 index.html        # Main HTML structure
+ - 📜 style.css         # Styling for UI elements
+ - 📜 script.js         # JavaScript for fetching API data
+ - 📂 images/           # Weather icons (rain, snow, clouds, etc.)
+ - 📜 README.md         # Project documentation
 
 
 
 🎯 How to Run
+
 1️⃣ Clone this repository:
 git clone https://github.com/Samagra12725/weather-forecast.git
 
-
-2️⃣ Open index.html in a browser. 3️⃣ Enter a city name in the search box to view the weather.
+2️⃣ Open index.html in a browser. 
+
+3️⃣ Enter a city name in the search box to view the weather.
 
 📌 API Configuration
 To use the OpenWeatherMap API, ensure you have an API key. Replace the placeholder in script.js:
@@ -45,18 +48,11 @@ const apiKey = "bd7d5028e6a0067b3d6b3bb514f5513c";
 Sign up at OpenWeatherMap to get your API key.
 
 🔧 Future Enhancements
-✅ Add hourly and weekly forecast support.
-✅ Implement geolocation-based weather detection.
-✅ Integrate radar maps for detailed weather visualization.
-💡 Contributions and suggestions are welcome! Feel free to open an issue or submit a pull request.
-⭐ If you find this project useful, give it a star!
+- Add hourly and weekly forecast support.
+- Implement geolocation-based weather detection.
+- Integrate radar maps for detailed weather visualization.
+- Contributions and suggestions are welcome! Feel free to open an issue or submit a pull request.
+- If you find this project useful, give it a star!
 
 
-
-
-
-
-
-
->>>>>>> 7580f6e90da05d5cac327ab306550be6d41d3269
 
