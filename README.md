@@ -1,10 +1,11 @@
-
 🌦️ Weather Forecast Website
 A simple and dynamic weather forecast application using the OpenWeatherMap API.
 
 📌 Overview
 This project provides real-time weather updates for any city entered by the user. It features dynamic UI elements, weather icons based on conditions, and a responsive design to ensure seamless access across devices.
 
+live demo
+https://samagra12725.github.io/Weather-Forecast/
 
 🚀 Features
 - Live Weather Updates – Fetch real-time weather conditions using OpenWeatherMap API.
