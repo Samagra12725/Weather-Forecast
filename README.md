@@ -27,7 +27,6 @@ This project provides real-time weather updates for any city entered by the user
  - 📂 images/           # Weather icons (rain, snow, clouds, etc.)
  - 📜 README.md         # Project documentation
 
-
 
 ## 🎯 How to Run
 
